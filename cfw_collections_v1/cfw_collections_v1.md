@@ -27,7 +27,7 @@ See Full Page Figure 3 [here](images/pd_avg_due_2020-12-17.html)
 
 **Figure 3: Average amount due per loan in the defined buckets.**
 
-After a loan has been in collections, it may be returned to 'Active' status, but still bares the label of 
+After a loan has been in collections, it may be returned to 'Active' status, but still bears the label of 
 'Centralized Collections'. There are 430 such loans as of 12/17/2020. Fig. 4 shows how many loans that are active or 
 past due have been sent to centralized collections. These loans are compared by the date that they were sent to 
 collections. The buckets do NOT represent how many days late the loan is, as the active loans are currently 0 days late.
@@ -39,7 +39,7 @@ See Full Page Figure 4 [here](images/act_pd_coll_count_2020-12-17.html)
 **Figure 4: Comparison of loans that bear the label of centralized collections. The buckets represent how many days 
 since the loans were sent to centralized collections.**
 
-In Fig. 5, the current total due for active and past due labeled centralized collectios are compared.
+In Fig. 5, the current total due for active and past due labeled centralized collections are compared.
 
 See Full Page Figure 5 [here](images/act_pd_coll_total_due_2020-12-17.html)
 
@@ -55,3 +55,5 @@ See Full Page Figure 6 [here](images/act_pd_coll_avg_due_2020-12-17.html)
 
 **Figure 6: Average total due for each loan bucket.**
 
+Please let me know your suggestions for improvement. If you see anything peculiar, please reach out to me to ask for 
+clarification.

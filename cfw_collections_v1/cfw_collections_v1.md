@@ -17,7 +17,7 @@ See Full Page Figure 2 [here](images/pd_total_due_2020-12-17.html)
 
 {% include_relative _images/pd_total_due_2020-12-17.html %}
 
-**Figure 2: Total amount due for the past due loans in collections.**
+**Figure 2: Total amount due for the past due loans in centralized collections.**
 
 Taking the data shown in Figs. 1 and 2, Fig. 3 shows the average amount due per loan in the buckets.
 
